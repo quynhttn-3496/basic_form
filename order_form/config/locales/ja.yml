@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    attributes:
+      order:
+        name: お名前
+        phone: 電話番号
+        email: メールアドレス
+        delivery_address: お届け先住所
